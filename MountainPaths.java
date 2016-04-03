@@ -199,6 +199,8 @@ public class MountainPaths
         {
           minNum = grid[i][col];
          }         
+        
+        
       }
       
       // since the smallest num in row obtained, now checks for how many times it occurs
